@@ -52,7 +52,7 @@ app/src/main/java/com/group10/vote/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/123Foday/VotePlus.git
+   git clone https://github.com/123Foday/Election_App.git
    cd VotePlus
    ```
 
